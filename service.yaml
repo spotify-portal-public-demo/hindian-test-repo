@@ -1,0 +1,4 @@
+service:
+  name: hindiana-demo-service
+  owner: group:default/kubecon-squad
+  environment: development
